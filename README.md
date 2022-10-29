@@ -1,4 +1,4 @@
-# ASUS-PRIME-B560M-A-Hackintosh
+# ASUS-PRIME-B560M-A-Hackintosh - Opencore 0.8.5
 
 ## *Take a note that this is may not be working on your setup, so DWYOR*
 
@@ -16,8 +16,6 @@
 | Storage | Digital Alliance NVME DA930E 128GB | https://digitalalliance.co.id/produk/m-2-pro-nvme-128gb/ |
 | Wireless LAN | Broadcom BCM94360CS2 with PCIe Adapter | https://www.amazon.com/Broadcom-Bcm94360cs2-Bcm94360cs2ax-Bluetooth-Wireless/dp/B00PDNDQ0K
 | Ethernet | Intel Ethernet Connection 1219-V (Built-in with Motherboard) | https://www.asus.com/motherboards-components/motherboards/prime/prime-b560m-a/
-
-## Current version of this Opencore setup : 0.8.5
 
 ## Installation
 Clone this repo
