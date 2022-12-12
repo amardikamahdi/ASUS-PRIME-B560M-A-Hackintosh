@@ -44,12 +44,14 @@ Well, i can tell you almost everything works out of the box, even iServices if y
 - Last, **DWYOR!**
 
 ## Credits
+- Apple - for [macOS]
 - Acidanthera - for their beatiful [Opencore]
 - Corpnewt - for their beautiful [GenSMBIOS] and [MountEFI]
 - Dortania - for their beautiful [guide of Hackintosh][Dortania]
 - [My Guru(s) at Hackintosh Lover Indonesia][HackintoshLoverIndonesia] - for their knowledgements so i can make it this far and set this beautiful config
 
 [//]: #
+[macOS]: <https://en.wikipedia.org/wiki/MacOS>
 [MountEFI]: <https://github.com/corpnewt/MountEFI>
 [Opencore]: <https://github.com/acidanthera/OpenCorePkg>
 [GenSMBIOS]: <https://github.com/corpnewt/GenSMBIOS>
